@@ -1,0 +1,11 @@
+{
+  "name": "image-to-3d",
+  "displayName": "Image to 3D",
+  "version": "0.1.0",
+  "description": "Turn a concept image into a web-ready 3D model: a ChatGPT turnaround sheet, Meshy image-to-3D, then Blender optimisation into desktop and phone GLBs.",
+  "author": { "name": "skyeyesec333" },
+  "license": "MIT",
+  "repository": "https://github.com/skyeyesec333/image-to-3d",
+  "homepage": "https://github.com/skyeyesec333/image-to-3d",
+  "keywords": ["3d", "meshy", "blender", "glb", "threejs", "turnaround", "image-to-3d"]
+}

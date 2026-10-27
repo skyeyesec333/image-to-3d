@@ -1,0 +1,8 @@
+{
+  "name": "image-to-3d",
+  "description": "Concept image to web-ready 3D model (ChatGPT, Meshy, Blender).",
+  "owner": { "name": "skyeyesec333" },
+  "plugins": [
+    { "name": "image-to-3d", "source": "./", "description": "Skill: image-to-3d. Turnaround prompts, sheet cutting, Meshy guidance and a Blender optimiser for desktop and phone GLBs.", "category": "development", "tags": ["3d", "meshy", "blender", "threejs"] }
+  ]
+}
